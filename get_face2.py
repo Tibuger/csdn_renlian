@@ -61,4 +61,4 @@ def CatchPICFromVideo(path_name, window_name="GET_FACE", camera_idx=0, catch_pic
 
 
 if __name__ == '__main__':
-    CatchPICFromVideo('C:\\Users\\84810\\Desktop\\csdn_renlian\\data\\yzz')
+    CatchPICFromVideo('C:\\Users\\qq120\\Desktop\\git\\csdn_renlian\\data\\face1')
